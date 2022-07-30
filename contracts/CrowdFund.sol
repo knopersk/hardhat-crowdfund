@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 
 /**
-A simple crowdfunding contract with a goal of optimizing gas costs.
-
-Bob, don't ask questions, just HODL...
+ * A simple crowdfunding contract with a goal of optimizing gas costs.
+ *
+ * Bob, don't ask questions, just HODL...
  */
 
 pragma solidity ^0.8.8;
